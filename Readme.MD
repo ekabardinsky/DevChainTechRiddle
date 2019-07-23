@@ -13,3 +13,9 @@ echo '4
 2 2 
 4 5' | node index.js
 ```
+
+## To call any of example from task description
+
+```shell script
+cat examples/t1 | node index.js
+```
